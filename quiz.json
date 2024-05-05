@@ -1,0 +1,32 @@
+[
+  {
+    "kategori": "Lyd",
+    "spørsmål": "Hva er en vanlig form for komprimering for lydfiler?",
+    "riktigSvar": "MP3"
+},
+  {
+    "kategori": "Lyd",
+    "spørsmål": "Hvilken faktor kan føre til tap av detaljer og lavere lydkvalitet ved bruk av lydkomprimeringsalgoritmer som MP3 og AAC?",
+    "riktigSvar": "kompremering"
+},
+  {
+      "kategori": "Foto",
+      "spørsmål": "Hva er en vanlig filtype for et bilde med tap?",
+      "riktigSvar": "JPEG"
+  },
+  {
+      "kategori": "Lyd",
+      "spørsmål": "Hva er prosessen med å konvertere lydbølger til digitale opptak kalt?",
+      "riktigSvar": "digitalisering"
+  },
+    {
+      "kategori": "Video",
+      "spørsmål": "Hva er en vanlig form for komprimering for videofiler?",
+      "riktigSvar": "MP4"
+  },
+  {
+    "kategori": "Foto",
+    "spørsmål": "Hva er oppløsningen til et digitalt bilde?",
+    "riktigSvar": "piksler"
+}
+]
